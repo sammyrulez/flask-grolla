@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{depend:0,twitter:0,interact:0,extens:0,facebook:0,allow:0,oauth:0,you:0,modul:0},objtypes:{"0":"py:module"},objnames:{"0":["py","module","Python module"]},filenames:["index"],titles:["Flask-Grolla"],objects:{"":{flask_grolla:[0,0,1,""]}},titleterms:{flask:0,grolla:0}})
