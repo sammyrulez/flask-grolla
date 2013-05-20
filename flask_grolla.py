@@ -14,6 +14,10 @@ class TwitterViewHolder(object):
     def twitter_login(self):
         return self.twitter.authorize(callback=url_for('twitter_authorized',next=request.args.get('next') or request.referrer or None))
 
+
+
+
+
     def twitter_authorized(self,resp):
         next_url = request.args.get('next') or url_for('index')
         if resp is None:
